@@ -75,11 +75,9 @@ p {
     to {left: 200px;}
   }
    
-  .row2 {
+.row2 {
     overflow-x: hidden;
-    margin-left: calc(-55vw + 50%);   
-     
-     
+    margin-left: calc(-55vw + 50%);    
 }     
 
 @keyframes slider-l {
